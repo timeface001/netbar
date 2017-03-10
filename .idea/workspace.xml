@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="d95b3ce4-ca85-4030-b276-f5598d27efeb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/artifacts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/inspectionProfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.mvn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.mvn/wrapper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/dao" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/service" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/service/impl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/interceptor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/response" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/mybatis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/mybatis/mapper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/Oxygen-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/arr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/at.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/at1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/av.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ba1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ba2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ba3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ba4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/back1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/bo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ce5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ci7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/de9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ga1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ga2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ga3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ho1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/img-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lg9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/lo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pc1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pc2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pc3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pc4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ph1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pi1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pi2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/pr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sb6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sl3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/sl4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ss.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ss1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ss2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/ss3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/star1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/te.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/te1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/images/te2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/test/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/test/java/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/test/java/com/fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/WangbarApplication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/controller/BarController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/controller/TestController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/controller/BarController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/controller/MemberController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/controller/TestController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/dao" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/dao/MemberMapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/Bar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/BarComputer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/BarLocation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/BarPicture.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/BarPrice.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/entity/Member.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/service" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/service/MemberService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/service/impl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/bar/service/impl/MemberServiceImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/BaseDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/ConstantInterceptor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/interceptor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/interceptor/ConstantHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/interceptor/WebAppConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/response" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/response/BaseResponse.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/response/PageList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/config/response/ResponseUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/com/fs/util/Generator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/mybatis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/mybatis/mapper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/Oxygen-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/arr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/at.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/at1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/av.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ba1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ba2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ba3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ba4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/back1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/bo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ce5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ci7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/de9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ga1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ga2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ga3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ho1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/img-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lg9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/lo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pc1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pc2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pc3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pc4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ph1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pi1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pi2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/pr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sb6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sl3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/sl4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ss.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ss1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ss2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/ss3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/star1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/te.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/te1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/images/te2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/generated-sources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/generated-sources/annotations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/generated-test-sources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/generated-test-sources/test-annotations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/test-classes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/test-classes/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/test-classes/com/WangbarApplicationTests.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/netbar.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/artifacts/wangbar_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/artifacts/wangbar_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_alibaba_fastjson_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__io_projectreactor_addons_reactor_test_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__io_projectreactor_reactor_core_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_assertj_assertj_core_3_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_attoparser_attoparser_2_0_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_4_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_mockito_mockito_core_2_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_mybatis_mybatis_3_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_objenesis_objenesis_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_jdbc_unknown.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_aop_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_beans_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_context_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_core_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_expression_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_test_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_web_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_0_BUILD_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_3_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_unbescape_unbescape_1_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__org_yaml_snakeyaml_1_18.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/WangbarApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/controller/BarController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/controller/MemberController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/controller/TestController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/dao/MemberMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/Bar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/BarComputer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/BarLocation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/BarPicture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/BarPrice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/Bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/BarComputer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/BarLocation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/BarPicture.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/BarPrice.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/entity/mapper/Member.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/service/MemberService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/bar/service/impl/MemberServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/BaseDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/ConstantInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/interceptor/ConstantHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/interceptor/WebAppConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/response/BaseResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/response/PageList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/config/response/ResponseUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/java/com/fs/util/Generator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/mybatis/mapper/Member.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/mybatis/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/popuo-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/easyResponsiveTabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/jquery.flexisel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/responsiveslides.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/main/resources/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/src/test/java/com/WangbarApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/mybatis/mapper/Member.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/mybatis/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/flexslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/popuo-box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/easyResponsiveTabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/jquery.flexisel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/responsiveslides.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/target/classes/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbar/wangbar.iml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="netbar" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wangbar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git-workspace\netbar\wangbar\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\fengsong\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\git-workspace\netbar" />
+          <option name="myCopyRoot" value="F:\git-workspace\netbar" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\git-workspace\netbar" />
+          <option name="myCopyRoot" value="F:\git-workspace\netbar" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d95b3ce4-ca85-4030-b276-f5598d27efeb" name="Default" comment="" />
+      <created>1489021487202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489021487202</updated>
+      <workItem from="1489021488743" duration="766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="766000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1030" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2429022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
